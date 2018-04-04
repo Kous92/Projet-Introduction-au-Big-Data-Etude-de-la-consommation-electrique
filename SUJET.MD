@@ -6,7 +6,7 @@ THIS PROJECT DESCRIPTION CONCERNS ONLY THE FOLLOWING GROUPS:
 * SE (D.Lebedev)
 OTHER GROUPS GET SEPARATE INSTRUCTIONS
 
-Helping to evaluate vacation renting sites
+# Helping to evaluate vacation renting sites
 Short description: This project is concentrated on the evaluating renting advertisements by studying the electricity consumption in towns where the property is advertised. In the context of users choosing different destinations for vacations, provide them an additional information on those places in terms of environmental conditions. The environmental condition in our limited example is based on the electrical consumption in the destination town.
 
 Further details: In France, several house rental web sites have RSS XML flow that can be parsed into a data set containing the list of available rentals. You will find the names of the towns inside the text.
@@ -19,12 +19,12 @@ At the same time you have the CSV file from ENEDIS (https://data.enedis.fr/explo
 
 Putting both data sources together allows you to sort/filter the rental advertisements by the “energy” indicators, as, for example, “zero industry” advertisements - quiet locations. To find an exact usage is left to you as a part of the exercise.
 
-Deliverables
+# Deliverables
 
 Jupyter Python notebook with the code (or a Python code).
 Graphs and numbers presenting different ‘energy indicators’ and the towns we find in the ads (can be inside the notebook or in PPTX).
 Final use cases, presenting how your work helps to choose a “nice” vacation rent.
-Hints on structuring your project : your project will probably include
+# Hints on structuring your project : your project will probably include
 
 Put on paper some ideas what you will be doing
 Get the data (verify with the professor its relevancy during the practical work sessions)
